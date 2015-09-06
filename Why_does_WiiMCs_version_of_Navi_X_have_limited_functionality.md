@@ -1,0 +1,3 @@
+**Issue:** Why does WiiMCs version of Navi-X have limited functionality?
+
+**Explanation:** WiiMC has very limited functionality at this time and development will resume fairly soon for Navi-X on WiiMC. Currently, it does not support processors or anything other than audio or video directly linked to a media file direct URL on the internet. (Example: http://www.whatever.com/video.avi) Unfortunately we cannot just update WiiMC with a python module to perform this function so until we find someone willing to re-code our processors in C+ or WiiMC gets a python interpreter in it, there is no resolution to this.

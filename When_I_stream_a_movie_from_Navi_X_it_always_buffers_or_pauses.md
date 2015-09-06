@@ -1,0 +1,7 @@
+**Issue:** When I stream a movie from Navi-X, it always buffers or pauses.
+
+**Explanation:** There are many reasons for a movie to not play in Navi-X. The file you may be trying to play back is being used by numerous users and there is not enough bandwidth available from a particular website source in question to provide you a steady connection for streaming playback. This is all to common to video sharing sites that predominantly contain movie and tv episode videos. Also sometimes there are restraints placed on you by a website that prevent you from streaming such content, such as Videofriender... they have a restraint where if an uploader goes over their particular bandwidth allotment on Videofriender, their content becomes unavailable, but stays in the listings for user playback regardless.
+
+You can also try using our troubleshooting guide for buffering issues written by iRoNBiLL... http://code.google.com/p/navi-x/wiki/Troubleshooting_Guide_for_Buffering_Issues_in_Navi_X
+
+**If you have good signal strength wirelessly or a cable connection to your device and you are 100% certain the router and device is configured properly and a movie still buffers, the buffering is typically due to lack of bandwidth from the video server and you can either try again later or try another source for your file in Navi-X.**

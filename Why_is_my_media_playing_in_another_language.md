@@ -1,0 +1,3 @@
+**Issue:**  Why is my media playing in another language?
+
+**Explanation:**  Links to multimedia content come from all around the world, as well as their sources. If you find something not playing in your language, try another source for your media and it may play in a language you understand. You can normally find a description of a media files country of origin, marked with a language description in the file name or you have heard of or know of a website being located and maintained in a particular country. (example: Vevo is located in the United Stated and their website says they only stream content to USA and Canada.)

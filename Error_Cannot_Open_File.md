@@ -1,0 +1,3 @@
+**Issue:**  Error Message: Cannot Open File.
+
+**Explanation:** It means exactly what it says... Cannot open file. There could be a couple of reasons for this however. The file could have been removed at the site where it resides. The site may be very busy and was not able to provide content fast enough for the media player to stream successfully. The site you are attempting to stream from could be down for maintenance. If you get this error, try the source again or exit Navi-X completely and then go back and try to play the same item in question again. If the error remains, it could just be a bad link that has not been removed from a playlist. It should be removed later during automated take down of broken links on Navi-Xtreme.

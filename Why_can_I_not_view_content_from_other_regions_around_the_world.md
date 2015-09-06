@@ -1,0 +1,3 @@
+**Issue:** Why can I not view content from other regions around the world?
+
+**Explanation:** Sometimes certain countries or governing bodies place regional restrictions on content distribution to outside countries for many different reasons, including governmental, financial and regulatory reasons. If content is not available from a particular country for you, this will be typically indicated by a notice embedded in the video feed or your inability to play back the content from your source. Sometimes you can get around this by using a proxy within the same country as the content is hosted in. If you would like to use a proxy, please read up on XBMC or Boxees proxy settings via google.com.

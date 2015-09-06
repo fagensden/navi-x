@@ -1,0 +1,11 @@
+**Issue:** Background Information on Navi-X
+
+**Explanation:** Navi-X was originally developed by Rodejo, a script writer of python code from the Netherlands. Navi-X was originally created for XBMC for the Xbox on April 1st, 2007. Navi-X originally only played back media items of video and audio content and was eventually expanded to included many other media types like text, rss, live streams and podcasts. There are currently a total of 1 developers, 1 technical support lead and project coordinator, and a handful of people who contribute their priceless time to the project with various endeavors.
+
+Believe it or not, there used to be a time where Navi-X didn't even have tv shows, movies, music or many websites now available in it today. When Navi-X started, there was pretty much only assorted public domain content available via podcasts and direct links only.
+
+Before Navi-Xtreme, there was a system called Navi-Xtra, which was basically a webpage with an editable text file you could add a link to your own privately hosted playlist to. Problem is, you could also re-arrange the playlist anyway you saw fit, including putting your links at the top of the list over everyone elses... there were no scrapers or processors or complete lists of any series. Since then, Navi-Xtreme has not only created a central place for Navi-X users to congregate and communicate, but host their own playlists in an online directory that's controlled and organized.
+
+The app Navi-X in an open-source project and as such, you may freely distribute, copy, share and edit code in Navi-X as you see fit. We only ask if you use any portions of the code included in Navi-X, to attribute it to the appropriate developer or to Rodejo if you use code samples from Navi-X for XBMC or Boxee.
+
+Because Navi-X is an open-source project, team members and contributors may come and go freely from time to time. Navi-X does not ensure services will always be available, but we will make our best effort to retain all current services as well as team members and contributors to the best extent that we can, as well as keeping Navi-X 100% free forever.

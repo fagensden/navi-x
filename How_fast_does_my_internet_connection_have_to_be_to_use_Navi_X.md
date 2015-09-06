@@ -1,0 +1,3 @@
+**Issue:** How fast does my internet connection have to be to use Navi-X?
+
+**Explanation:** It is recommended you have a cable connection of at least 384kbps or a "lite-tiered" DSL high speed broadband connection. This should be sufficient for most content sources. Navi-X will not operate with a dial-up modem, a high speed internet connection is required. An unsteady wireless connection can also unfortunately be all too common, even amongst those with the best of equipment. Consult your wireless manufacturer for troubleshooting your router and making sure it is configured properly and you are getting adequate signal strength. Otherwise, cable connectivity to the router can help with spotty connectivity issues via wireless connection.

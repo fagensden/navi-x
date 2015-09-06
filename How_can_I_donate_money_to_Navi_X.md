@@ -1,0 +1,5 @@
+**Issue:** How can I donate money to Navi-X?
+
+**Explanation:** Team Navi-X and it's members do NOT accept donations of any kind. Navi-X is an open-source project and as such, the program is free of charge and free to distribute, as well as free for programmers to modify and use snippets of code from the application. We simply ask if you choose to use a snippet of code from the Navi-X code base, that you attribute the works of code to the original developer and creator of Navi-X, Rodejo.
+
+If you still insist on donating something to Navi-X, we always welcome adding fresh links to quality content on the internet so that all users may benefit from sharing great clips and media found on the internet. Anything you can do to benefit the users in terms of contributions to Navi-X coding, development or hosting is always welcomed as we are an open source project.
